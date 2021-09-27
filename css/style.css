@@ -1,0 +1,21 @@
+.body{
+    left: 10%;
+    display: inline-block;
+}
+
+#name, #surname, #personalId, #description, button{
+    margin-left: 100px;
+    margin-top: 3px;
+}
+.submitButton{
+    margin-top: 10px;
+}
+
+.search{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#searchButton{
+    margin-left: 50px;
+}
